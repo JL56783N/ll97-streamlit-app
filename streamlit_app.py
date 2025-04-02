@@ -2,9 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
    "id": "8d37a2fe-192d-427f-894c-66a1c0d34070",
-   "metadata": {},
    "outputs": [
     {
      "name": "stderr",
@@ -140,14 +138,11 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
    "id": "047b9a55-4ae1-4523-a293-c33026c7c019",
-   "metadata": {},
    "outputs": [],
    "source": []
   }
  ],
- "metadata": {
   "kernelspec": {
    "display_name": "anaconda-ai-2024.04-py310",
    "language": "python",
@@ -166,6 +161,4 @@
    "version": "3.10.13"
   }
  },
- "nbformat": 4,
- "nbformat_minor": 5
 }
